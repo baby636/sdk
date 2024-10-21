@@ -20,7 +20,7 @@
   "browser": "dist/run.browser.min.js",
   "license": "MIT",
   "dependencies": {
-    "bsv": "^1.5.5"
+    "bsv": "^2.0.0"
   },
   "repository": "git://github.com/runonbitcoin/sdk.git"
 }
